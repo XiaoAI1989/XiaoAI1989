@@ -16,9 +16,8 @@ I work on **LLM reasoning & decision-making, continual learning, and on-device m
 |---|---|---|
 | **ORMind**: A Cognitive-Inspired End-to-End Reasoning Framework for Operations Research | ACL 2025 (Industry), CCF-A | [Paper](https://aclanthology.org/2025.acl-industry.10) |
 | **ChordPrompt**: Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP | ECML-PKDD 2025, CCF-B | [Paper](https://link.springer.com/chapter/10.1007/978-3-662-72243-5_9) |
-| **P2DT**: Mitigating Forgetting in Task-Incremental Learning with Progressive Prompt Decision Transformer | ICASSP 2024, CCF-B | [Paper](https://ieeexplore.ieee.org/document/10447725) · [Code](#) |
-| **INCPrompt**: Task-Aware Incremental Prompting for Rehearsal-Free Class-Incremental Learning | ICASSP 2024, CCF-B | [Paper](https://ieeexplore.ieee.org/document/10447775) · [Code](#) |
-| **Partial Task Offloading Strategy Based on Deep Reinforcement Learning** | IEEE ICCC 2020 | [Paper](https://ieeexplore.ieee.org/document/9345003) |
+| **P2DT**: Mitigating Forgetting in Task-Incremental Learning with Progressive Prompt Decision Transformer | ICASSP 2024, CCF-B | [Paper](https://ieeexplore.ieee.org/document/10447725) · |
+| **INCPrompt**: Task-Aware Incremental Prompting for Rehearsal-Free Class-Incremental Learning | ICASSP 2024, CCF-B | [Paper](https://ieeexplore.ieee.org/document/10447775) · |
 
 > 📚 Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=ms3k-RkAAAAJ)
 
